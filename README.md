@@ -17,8 +17,8 @@ This Python script captures video from a camera, applies an HSV color mask to de
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AlexanderTsk/color_detection.git
+   cd color_detection
 
 2. Install dependencies:
    ```bash
